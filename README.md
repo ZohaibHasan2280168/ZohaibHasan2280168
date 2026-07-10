@@ -1,27 +1,39 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&theme=dark&height=180&section=header&text=Zohaib%20Hassan&fontSize=50&animation=twinkling" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=7dd3fc&center=true&vCenter=true&width=500&lines=Software+Engineering+Graduate+🎓;MERN+Stack+Web+Developer+💻;Aspiring+DevOps+Engineer+🚀" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge&logo=github" alt="Open to Work" />
-  <img src="https://komarev.com/ghvc/?username=ZohaibHasan2280168&label=Profile%20Views&color=7dd3fc&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ZohaibHasan2280168?label=Followers&style=for-the-badge&color=7dd3fc" alt="Followers" />
-</p>
+# 🙋‍♂️ Zohaib Hassan
+### Software Engineering Graduate (BSSE) | MERN Stack Developer | Aspiring DevOps Engineer
 
 ---
 
-## 🙋‍♂️ Who I Am
+## 🚀 About Me
+* 🎓 **Recent Graduate:** Completed BSSE exams, awaiting convocation.
+* 💻 **Tech Stack:** Specialized in the MERN Stack (MongoDB, Express.js, React, Node.js) for building full-stack web applications.
+* 🛡️ **DevOps & Cloud:** Actively diving deep into DevOps practices, Linux environments, and automated workflows to branch into cloud engineering.
+* ⚡ **Status:** **Open to Work** for Full-Time software engineering, web development, or DevOps internship roles.
 
-```typescript
-const developer = {
-  name: "Zohaib Hassan",
-  title: "Software Engineering Graduate (BSSE)",
-  status: "Exploring DevOps & Cloud Architecture",
-  currentFocus: "Building production-ready MERN Stack Applications",
-  launchedProjects: ["DarziFlow"],
-  openTo: ["Full-Time Roles", "Web Dev & DevOps Internships", "Open Source Collaboration"]
-};
+---
+
+## 🧵 Featured Project: DarziFlow (FYP)
+**DarziFlow** is a comprehensive web and mobile-based platform designed to digitize and streamline the garment manufacturing industry. It replaces traditional, manual tracking systems (like spreadsheets and paper reports) with a centralized digital pipeline.
+
+* **Core Features:** Stage-wise production approvals, real-time tracking, cross-department communication, and centralized secure authentication.
+
+### 🛠️ Architecture & Technologies
+* **Frontend:** React.js, React Native, Tailwind CSS, Figma UI/UX
+* **Backend & Security:** Node.js, Express.js, JWT Authentication
+* **Database & Media:** MongoDB, Cloud-based media storage solutions
+
+🔗 **[View Frontend Code Repository](https://github.com/ZohaibHasan2280168/darziflow-frontend)**
+
+---
+
+## 🛠️ Technical Skills
+
+* **Programming Languages:** JavaScript, C, Java, PHP, HTML5, CSS3
+* **Frameworks & Libraries:** React.js, React Native, Node.js, Express.js
+* **Databases & Servers:** MongoDB, MySQL, XAMPP
+* **DevTools & Systems:** Git, GitHub, Linux OS
+
+---
+
+## 🤝 Connect With Me
+* 💼 **LinkedIn:** [linkedin.com/in/zabi-khan-487302398](https://www.linkedin.com/in/zabi-khan-487302398)
+* 📧 **Email:** zabi4209@gmail.com
