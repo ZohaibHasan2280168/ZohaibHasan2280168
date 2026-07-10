@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./banner.png" alt="Zohaib Hassan Banner" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="./banner.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner.png">
+    <img src="./banner.png" alt="Zohaib Hassan Banner" width="100%" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  </picture>
 </p>
 
 # Hi, My name is **Zohaib Hassan**!
