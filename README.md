@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner1.png" alt="Zohaib Hassan Banner" width="100%" />
+  <img src="./banner.png" alt="Zohaib Hassan Banner" width="100%" />
 </p>
 
 <br>
