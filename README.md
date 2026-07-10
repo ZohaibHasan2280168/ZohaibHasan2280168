@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 🙋‍♂️ Zohaib Hassan<br><br>Hi, I'm Zohaib Hassan! 🚀 MERN Stack Developer | Aspiring DevOps Engineer. I am a Software Engineering student passionate about building production-ready web applications and exploring cloud architecture. As a former **Management Lead at GDSC (Google Developer Student Clubs)**, I love coordinating technical initiatives, managing teams, and contributing to the developer community. My tech stacks are JavaScript, React, Node.js, and MongoDB, and I am currently branching out into DevOps practices.<br><br>* 🌍 I'm based in Karachi, Pakistan<br>* 📧 You can contact me at zabi4209@gmail.com<br>* 🧠 I'm learning DevOps & Cloud Engineering (Linux, Git, GitHub workflows)<br>* 🤝 I'm open to collaborating on MERN Stack & Web Development Projects<br>* ⚡ Fun Fact: Alongside software engineering, I have 4 years of teaching experience!
 
 
