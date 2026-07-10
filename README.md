@@ -2,8 +2,6 @@
   <img src="./banner.png" alt="Zohaib Hassan Banner" width="100%" />
 </p>
 
-<br>
-
 # Hi, my name is **Zohaib Hassan**!
 
 ---
