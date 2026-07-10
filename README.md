@@ -4,7 +4,7 @@
 
 <br>
 
-# 🙋‍♂️ Hi, my name is **Zohaib Hassan**!
+# Hi, my name is **Zohaib Hassan**!
 
 ---
 
