@@ -12,7 +12,7 @@
 
 🚀 **MERN Stack Developer** | Aspiring **DevOps Engineer**. 
 
-I am a Software Engineering student passionate about building production-ready web applications and exploring cloud architecture. As a former **Management Lead at GDSC (Google Developer Student Clubs)**, I love coordinating technical initiatives, managing teams, and contributing to the developer community. My tech stacks are JavaScript, React, Node.js, and MongoDB, and I am currently branching out into DevOps practices.
+I am a Software Engineering student passionate about building production-ready web applications and exploring cloud architecture. As a former **Management Lead at GDGoC (Google Developer Group on Campus)**, I love coordinating technical initiatives, managing teams, and contributing to the developer community. My tech stacks are JavaScript, React, Node.js, and MongoDB, and I am currently branching out into DevOps practices.
 
 * 🌍 I'm based in Karachi, Pakistan
 * 📧 You can contact me at zabi4209@gmail.com
