@@ -70,11 +70,15 @@
     <td align="center" width="20%"><b>Cloud Platforms</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
-      <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
-      <img src="https://img.shields.io/badge/IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white" />
+      <img src="https://img.shields.io/badge/Elastic%20Load%20Balancing-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon%20VPC-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS%20IAM-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -123,15 +127,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📈 GitHub Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZohaibHasan2280168&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZohaibHasan2280168&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
