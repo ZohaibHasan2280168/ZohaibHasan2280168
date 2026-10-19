@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zohaib%20Hassan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohaibhassandev/)
 [![Email](https://img.shields.io/badge/Email-zabi4209%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zabi4209@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-ZohaibHasan2280168-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZohaibHasan2280168)
+[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-3D_Showcase-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://zohaib-devops-portfolio.vercel.app/)
 
 <p align="center">
   <b>Bridging development and cloud operations with deterministic CI/CD, container orchestration, and SRE incident post-mortems.</b>
@@ -29,10 +30,17 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛡️ DevOps Incident & Troubleshooting Handbook</h3>
+      <h3 align="center">
+        <a href="https://github.com/ZohaibHasan2280168/DevOps-Incident-Troubleshooting-Handbook">
+          🛡️ DevOps Incident & Troubleshooting Handbook
+        </a>
+      </h3>
       <p align="center">
         <a href="https://github.com/ZohaibHasan2280168/DevOps-Incident-Troubleshooting-Handbook">
           <img src="https://img.shields.io/badge/Handbook-SRE%20Runbooks-2496ED?style=flat-square&logo=docker" />
+        </a>
+        <a href="https://github.com/ZohaibHasan2280168/DevOps-Incident-Troubleshooting-Handbook">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" />
         </a>
       </p>
       <ul>
@@ -44,18 +52,66 @@
       </ul>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 SmartDoc AI — 3-Tier Cloud Platform</h3>
+      <h3 align="center">
+        <a href="https://zohaib-devops-portfolio.vercel.app/">
+          🌐 3D Cloud & DevOps Portfolio
+        </a>
+      </h3>
       <p align="center">
+        <a href="https://zohaib-devops-portfolio.vercel.app/">
+          <img src="https://img.shields.io/badge/Live%20Demo-Vercel%20Production-00C7B7?style=flat-square&logo=vercel" />
+        </a>
+        <a href="https://github.com/ZohaibHasan2280168/portfolio">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" />
+        </a>
+      </p>
+      <ul>
+        <li>Interactive 3D WebGL graphics and hardware-accelerated parallax tilt mechanics.</li>
+        <li>Automated CI/CD with GitHub Actions & multi-stage Docker builds (25MB Nginx Alpine).</li>
+        <li>Production SRE showcases, verified Cloud credentials, and direct 1-click contact channels.</li>
+        <li>Zero-lag 60 FPS performance tuning across mobile and high-DPI desktop viewports.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">
+        <a href="http://3.94.149.149">
+          🧠 SmartDoc AI — 3-Tier Cloud Platform
+        </a>
+      </h3>
+      <p align="center">
+        <a href="http://3.94.149.149">
+          <img src="https://img.shields.io/badge/Live%20Demo-AWS%20EC2-brightgreen?style=flat-square&logo=amazon-aws" />
+        </a>
         <a href="https://github.com/ZohaibHasan2280168/smartdoc-ai">
           <img src="https://img.shields.io/badge/Architecture-3--Tier%20Cloud-FF9900?style=flat-square&logo=amazon-aws" />
         </a>
       </p>
       <ul>
-        <li>Production 3-tier microservices platform on <b>AWS EC2 & ECR</b>.</li>
+        <li>Production 3-tier microservices platform hosted live on <b>AWS EC2 & ECR</b>.</li>
         <li>Decoupled Next.js 14 frontend, FastAPI backend, PostgreSQL 16 DB, and Redis cache.</li>
         <li>Multi-stage Docker builds reducing container footprint by 40%.</li>
-        <li>User-defined bridge networking and embedded DNS service discovery.</li>
-        <li>Health probe telemetry and automated zero-downtime deployment scripts.</li>
+        <li>Health probe telemetry (<code>/api/v1/health</code>) and live Prometheus metrics.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">
+        <a href="https://github.com/ZohaibHasan2280168/GoDevOps">
+          ⚙️ GoDevOps — Cloud-Native Monitoring
+        </a>
+      </h3>
+      <p align="center">
+        <a href="https://github.com/ZohaibHasan2280168/GoDevOps">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" />
+        </a>
+        <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=flat-square&logo=terraform" />
+      </p>
+      <ul>
+        <li>Cloud-native microservices architecture in Go & React with MongoDB persistence.</li>
+        <li>Automated Infrastructure as Code (IaC) provisioning with <b>Terraform</b> on AWS.</li>
+        <li>Automated CI/CD pipeline executing test suites and multi-stage container builds.</li>
+        <li>Full-stack observability with <b>Prometheus</b> metric scrapers and <b>Grafana</b> dashboards.</li>
       </ul>
     </td>
   </tr>
@@ -132,5 +188,5 @@
 
 <div align="center">
   <b>Let's build reliable cloud systems together! 🚀</b><br />
-  📫 Reach out: <a href="mailto:zabi4209@gmail.com">zabi4209@gmail.com</a> | 🌐 Connect on <a href="https://www.linkedin.com/in/zohaibhassandev/">LinkedIn</a>
+  📫 Reach out: <a href="mailto:zabi4209@gmail.com">zabi4209@gmail.com</a> | 🌐 Connect on <a href="https://www.linkedin.com/in/zohaibhassandev/">LinkedIn</a> | 💻 Live Portfolio: <a href="https://zohaib-devops-portfolio.vercel.app/">zohaib-devops-portfolio.vercel.app</a>
 </div>
